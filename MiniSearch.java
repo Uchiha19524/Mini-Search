@@ -136,7 +136,7 @@ public class MiniSearch {
     int choice = -1;
     do {
       System.out.println();
-      System.out.println("Welcome to Mini-Google!");
+      System.out.println("Welcome to Mini-Search!");
       System.out.println("=====================");
       System.out.println("Make a selection from the " +
                          "following options:");
