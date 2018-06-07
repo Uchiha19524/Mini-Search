@@ -7,7 +7,7 @@ Uses hash tables and a MaxHeap to calculate cosine similarity and print out top 
 
 To use:
 * Put all the files in the same folder (and extract the articles folder)
-* Compile and run MiniGoogle.java
+* Compile and run MiniSearch.java
 
 
 
