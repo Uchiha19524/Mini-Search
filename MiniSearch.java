@@ -1,5 +1,5 @@
 /*
- * MiniGoogle.java
+ * MiniSearch.java
  *
  * A client program that uses the MaxHeap, DatabaseIterator, TermFrequencyTable, ArticleTable
  * and Article classes, along with additional data
@@ -9,7 +9,7 @@
 
 import java.util.*;
 
-public class MiniGoogle {
+public class MiniSearch {
   
   private static Article[] getArticleList(DatabaseIterator db) {
     
